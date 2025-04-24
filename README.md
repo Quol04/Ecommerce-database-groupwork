@@ -27,3 +27,7 @@
 🧪 attribute_type – Defines types of attributes (e.g., text, number, boolean)
 
 ---
+### Entity Relationship Diagram
+[ERD](https://app.diagrams.net/#G1_ZwSeelbMa7WzxHri3WKKumqMfIdBN3q#%7B%22pageId%22%3A%22gT5sNrZfBBIdK79uJkW8%22%7D)
+
+![ERD](images/ecommercedb.png)
