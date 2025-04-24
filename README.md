@@ -1,6 +1,6 @@
 # Ecommerce Database - Group 221
 
-## the following  are the tables for your e-commerce platform 🛍️:
+## the following  are the tables for our e-commerce platform 🛍️:
 
 🖼️ product_image – Stores product image URLs or file references
 
@@ -28,6 +28,6 @@
 
 ---
 ### Entity Relationship Diagram
-[ERD](https://app.diagrams.net/#G1_ZwSeelbMa7WzxHri3WKKumqMfIdBN3q#%7B%22pageId%22%3A%22gT5sNrZfBBIdK79uJkW8%22%7D)
+[ERD On Draw.io website](https://app.diagrams.net/#G1_ZwSeelbMa7WzxHri3WKKumqMfIdBN3q#%7B%22pageId%22%3A%22gT5sNrZfBBIdK79uJkW8%22%7D)
 
 ![ERD](images/ecommercedb.png)
